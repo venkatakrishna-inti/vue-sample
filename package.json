@@ -35,7 +35,7 @@
     "lodash": "^4.17.15",
     "mix-html-builder": "^0.3.0",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "popper.js": "^1.15.0",
     "posthtml": "^0.11.4",
     "posthtml-include": "^1.2.0",
